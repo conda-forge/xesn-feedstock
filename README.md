@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xesn-feedstock/
 
 Home: https://github.com/timothyas/xesn
 
-Package license: LGPL-3.0-only
+Package license: Apache-2.0
 
 Summary: Echo State Networks powered by xarray
 
